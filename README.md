@@ -16,7 +16,7 @@ The last time for isha prayer is also calculated based on the time for a specifi
 ---------------------------------------------------------------------------------------------
 
 Future updates:
-1)Will implement a UI (Currently a console based application)
-2)Will show how much time is left in real time
-3)Show all other prayer times.
+1. Will implement a UI (Currently a console based application)
+2. Will show how much time is left in real time
+3. Show all other prayer times.
 
